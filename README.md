@@ -1,6 +1,6 @@
 # Markdown Slicer
 
-![Markdown Slicer](./mdlogo.png)
+![Markdown Slicer](./public/mdsliceimage.jpg)
 
 A free, open-source, browser-based tool for splitting large markdown files into smaller, manageable sections. Perfect for breaking down documentation, manuals, and README files.
 
